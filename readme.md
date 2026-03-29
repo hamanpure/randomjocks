@@ -91,24 +91,7 @@ https://v2.jokeapi.dev/joke/Any?safe-mode
 - 🔁 Add "Next Joke" button without page reload  
 - 📱 Make the application fully responsive  
 - 🌍 Add joke categories (Programming, Dark, etc.)  
-- 💾 Save favorite jokes  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository  
-2. Create a new branch  
-3. Commit your changes  
-4. Push and create a Pull Request  
-
----
-
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
+- 💾 Save favorite jokes 
 
 ---
 
